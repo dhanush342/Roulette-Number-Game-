@@ -1,0 +1,3 @@
+2025-05-21 21:11:28.237454 | Player: dhanush | Difficulty: Easy | Score: 1 | New High Score: Yes
+2025-05-21 21:16:07.240579 | Player: ram | Difficulty: Easy | Score: 1 | New High Score: No
+2025-05-21 21:18:05.274907 | Player: jain | Difficulty: Easy | Score: 1 | New High Score: No
